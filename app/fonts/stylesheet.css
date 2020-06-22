@@ -66,6 +66,15 @@
 
 }
 
+@font-face {
+    font-family: 'montserrat_medium';
+    src: url('Montserrat-Medium.woff') format('woff'),
+         url('Montserrat-Medium.eot') format('eot');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 
 
 

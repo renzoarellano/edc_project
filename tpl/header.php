@@ -9,7 +9,7 @@ switch (basename($_SERVER['PHP_SELF'])) {
       $nosotros="class='active'";
     break;
 
-    case "edc.php":
+    case "edc-en-peru.php":
       $edc="class='active'";
     break;
 
@@ -48,7 +48,7 @@ switch (basename($_SERVER['PHP_SELF'])) {
             <span class="lineNav">|</span>
           </li>
           <li>
-            <a <?= $edc ?> href="edc.php">
+            <a <?= $edc ?> href="edc-en-peru.php">
               EDC en Perú
             </a>
             <span class="lineNav">|</span>

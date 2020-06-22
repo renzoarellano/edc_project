@@ -2,34 +2,86 @@
     <div class="swiper-container-home">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bannerBack">
+                <div class="bannerBack" style="background-image: url('app/img/Carrusel01.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 col-md-10 col-lg-7 col-xl-5 np">
+                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
-                                RESPETUOSOS<br>CON EL MEDIO<br>AMBIENTE
+                                GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
-                        <div class="botonBanner">
-                            <a class="buttonLeerMas" href="#">
-                                LEER MÁS
-                            </a>
+                        <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <div class="textBanner col-12 col-md-10 col-lg-8">
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="swiper-slide">
-                <div class="bannerBack">
+                <div class="bannerBack" style="background-image: url('app/img/Carrusel02.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 col-md-10 col-lg-7 col-xl-5 np">
+                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
-                                RESPETUOSOS<br>CON EL ALTO<br>AMBIENTE
+                                GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
-                        <div class="botonBanner">
-                            <a class="buttonLeerMas" href="#">
-                                LEER MÁS
-                            </a>
+                        <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <div class="textBanner col-12 col-md-10 col-lg-8">
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="bannerBack" style="background-image: url('app/img/Carrusel03.jpg');">
+                    <div class="positionText">
+                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <h1>
+                                GENERANDO<br>POSIBILIDADES INFINITAS
+                            </h1>
+                        </div>
+                        <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <div class="textBanner col-12 col-md-10 col-lg-8">
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="bannerBack" style="background-image: url('app/img/Carrusel04.jpg');">
+                    <div class="positionText">
+                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <h1>
+                                GENERANDO<br>POSIBILIDADES INFINITAS
+                            </h1>
+                        </div>
+                        <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <div class="textBanner col-12 col-md-10 col-lg-8">
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="bannerBack" style="background-image: url('app/img/Carrusel05.jpg');">
+                    <div class="positionText">
+                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <h1>
+                                GENERANDO<br>POSIBILIDADES INFINITAS
+                            </h1>
+                        </div>
+                        <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                            <div class="textBanner col-12 col-md-10 col-lg-8">
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -56,23 +108,28 @@
 
                     </div>
                 </div>
-                <div class="noticiaPrincipal col-12">
-                    <div class="contenidoNoticiaPrincipal">
-                        <div class=" headNoticia">
-                            <div class="etiquetaNoticia">
-                                Noticias
+                <div class="noticiaPrincipalContainer col-12 np">
+                    <div class="noticiaPrincipal col-12" style="background-image: url('app/img/Not_destacada.jpg');">
+                        <div class="contenidoNoticiaPrincipal">
+                            <div class=" headNoticia">
+                                
+                                <div class="fechaNoticia">
+                                <span class="iconCalendar">
+                                    <img width="24px" src="app/img/calendar.png" alt="Calendar Noticia EDC">
+                                </span>  Junio 17, 2020
+                                </div>
                             </div>
-                            <div class="fechaNoticia">
-                            <span class="iconCalendar">
-                                <img width="24px" src="app/img/calendar.png" alt="Calendar Noticia EDC">
-                            </span>  Abril 11,2020
+                            <div class="tituloNoticia">
+                                <h1>
+                                    Webinar de Geotermia
+                                </h1>
                             </div>
                         </div>
-                        <div class="tituloNoticia">
-                            <h1>
-                                Proyecciones económicas para el Perú en el 2021
-                            </h1>
-                        </div>
+                    </div>
+                    <div class="textNoticiaDestacada col-12 np">
+                        Los invitamos al Webinar "GEOTERMIA, reactivación económica y seguridad energética" que organiza
+                        la Sociedad Peruana de Energías Renovables, Participará nuestro gerente general, Franklin Acevedo.
+                        Inscríbase <a href="https://zoom.us/webinar/register/WN_gjizjWI4Q2GOOXWJ0RRtKA">https://zoom.us/webinar/register/WN_gjizjWI4Q2GOOXWJ0RRtKA</a> ¡Los esperamos!
                     </div>
                 </div>
                 <div class="cabeceraSection col-12 np">
@@ -88,34 +145,26 @@
                 <div class="ultimaNoticia col-lg-12 np ">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
-                            <img class="imgUltimaNoticia" src="app/img/not2.jpg" alt="">
+                            <img class="imgUltimaNoticia" src="app/img/not3_edc.jpg" alt="">
                         </div>
                         <div class="col-12 col-md-7 col-lg-7 paddingUltimaNoticia">
                             <div class=" headUltimaNoticia">
-                                <div class="etiquetaNoticia">
-                                    Noticias
-                                </div>
+                         
                                 <div class="fechaUltimaNoticia">
                                 <span class="iconCalendar">
                                     <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                                </span>  Abril 11,2020
+                                </span>  Junio 17, 2020
                                 </div>
                             </div>
                             <div class="tituloUltimaNoticia">
                                 <h1>
-                                    Estado firma importante convenio con EDC
+                                    Geotermia y Covid-19
                                 </h1>
                             </div>
                             <div class="textoUltimaNotica">
                                 <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                En una columna de opinión publicada en el diario Gestión, nuestro gerente general Franklin Acevedo, comenta cómo la generación de electricidad con geotermia puede contribuir a generar una mejor calidad de vida para los peruanos, después del Covid-19.
                                 </p>
-                            </div>
-                            <div class="comentariosUltimaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/chat.png" alt="Comentario Icon EDC">
-                                </span>
-                                10 Comentarios
                             </div>
                         </div>
                     </div>
@@ -123,94 +172,34 @@
                 <div class="ultimaNoticia col-lg-12 np ">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
-                            <img class="imgUltimaNoticia" src="app/img/not3.jpg" alt="">
+                            <img class="imgUltimaNoticia" src="app/img/not4_edc.jpg" alt="">
                         </div>
                         <div class="col-12 col-md-7 col-lg-7 paddingUltimaNoticia">
                             <div class=" headUltimaNoticia">
-                                <div class="etiquetaNoticia">
-                                    Noticias
-                                </div>
+                               
                                 <div class="fechaUltimaNoticia">
                                 <span class="iconCalendar">
                                     <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                                </span>  Abril 9,2020
+                                </span>  Junio 17, 2020
                                 </div>
                             </div>
                             <div class="tituloUltimaNoticia">
                                 <h1>
-                                    EDC a la vanguardia del cuidado del medio ambiente
+                                    EDC Energía Verde contribuye a prevenir el COVID 19 en las comunidades geotérmicas
                                 </h1>
                             </div>
                             <div class="textoUltimaNotica">
                                 <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                Frente a la actual pandemia que enfrenta nuestro país, EDC decide promover conductas saludables para la prevención del COVID 19 comenzando por la zona de Cabanaconde en Arequipa, donde se logró entregar productos sanitarios para la población, a la municipalidad local y centro de salud.
                                 </p>
-                            </div>
-                            <div class="comentariosUltimaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/chat.png" alt="Comentario Icon EDC">
-                                </span>
-                                10 Comentarios
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="ultimaNoticia col-lg-12 np ">
-                    <div class="row no-gutters">
-                        <div class="col-12 col-md-5 col-lg-5 np">
-                            <img class="imgUltimaNoticia" src="app/img/not4.jpg" alt="">
-                        </div>
-                        <div class="col-12 col-md-7 col-lg-7 paddingUltimaNoticia">
-                            <div class=" headUltimaNoticia">
-                                <div class="etiquetaNoticia">
-                                    Noticias
-                                </div>
-                                <div class="fechaUltimaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                                </span>  Abril 8,2020
-                                </div>
-                            </div>
-                            <div class="tituloUltimaNoticia">
-                                <h1>
-                                    Se realizó conferencia sobre energía sola en Arequipa
-                                </h1>
-                            </div>
-                            <div class="textoUltimaNotica">
-                                <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                                </p>
-                            </div>
-                            <div class="comentariosUltimaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/chat.png" alt="Comentario Icon EDC">
-                                </span>
-                                10 Comentarios
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
         <div class="col-12 col-md-12 col-lg-4 espaciadoRedes">
             <div class="row no-gutters">
-                <div class="cabeceraSection col-12 np">
-                    <div class="tituloSection">
-                        <h1>
-                            INSTAGRAM
-                        </h1>
-                    </div>
-                    <div class="col-12 lineCabecera">
-
-                    </div>
-                </div>
-                <div class="col-12 espacioInstagram">
-                   <div class="row no-gutters">
-                        <?= $instagramPicture; ?>
-                   </div>
-                </div>
-                
                 <div class="cabeceraSection col-12 np">
                     <div class="tituloSection">
                         <h1>
@@ -222,38 +211,41 @@
                     </div>
                 </div>
                 <div class="col-12">
-                    <div class="facebook col-12 np">
-                        <div class="logoRedSocial">
-                            <img src="app/img/facebook.png" alt="Facebook Logo EDC">
-                        </div>
-                        <div class="textoRedSocial">
-                            Seguidores <span class="numeroSeguidores"> 10,952</span>
-                        </div>
-                    </div>
-                    <div class="twitter col-12 np">
-                        <div class="logoRedSocial">
-                            <img src="app/img/twitter.png" alt="Facebook Logo EDC">
-                        </div>
-                        <div class="textoRedSocial">
-                            Seguidores <span class="numeroSeguidores"> 10,952</span>
-                        </div>
-                    </div>
-                    <div class="linkedin col-12 np">
-                        <div class="logoRedSocial">
-                            <img src="app/img/linkedin.png" alt="Facebook Logo EDC">
-                        </div>
-                        <div class="textoRedSocial">
-                            Seguidores <span class="numeroSeguidores"> 10,952</span>
-                        </div>
-                    </div>
-                    <div class="youtube col-12 np">
+                    <ul class="redesHome">
+                        <li>
+                            <a href="https://instagram.com/edc_peru" target="_blank">
+                                <img src="app/img/instagram.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/EDCPeru" target="_blank">
+                                <img src="app/img/facebook.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCw9VVaZpUUy3wGFTdBx6vgQ" target="_blank">
+                                <img src="app/img/youtube.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" target="_blank">
+                                <img src="app/img/twitter.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/edc-perú-8661a41a6" target="_blank">
+                                <img src="app/img/linkedin.png" alt="">
+                            </a>
+                        </li>    
+                    </ul>
+                    <!--div class="youtube col-12 np">
                         <div class="logoRedSocial">
                             <img src="app/img/youtube.png" alt="Facebook Logo EDC">
                         </div>
                         <div class="textoRedSocial">
                             Seguidores <span class="numeroSeguidores"> 10,952</span>
                         </div>
-                    </div>
+                    </div-->
 
                 </div>
                 <div class="cabeceraSection col-12 np">
