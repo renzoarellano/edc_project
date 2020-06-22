@@ -775,7 +775,17 @@ height: 260px;
 }
 
 
-
+/*CONTACTO*/
+.estiloDatosContacto{
+  color: #333b55;
+  margin-top: 15px;
+  font-family: 'gotham_book';
+  font-size: 20px;
+  line-height: 25px;
+}
+.espacioMapa{
+  margin-top: 30px;
+}
 
 @media (min-width: 320px) {
 
@@ -807,6 +817,14 @@ height: 260px;
     line-height: 45px;
     margin: 0;
     color: black;
+  }
+
+  .tituloBanner3 h1 {
+    font-family: 'poppins_extrabold';
+    font-size: 40px;
+    line-height: 45px;
+    margin: 0;
+    color: white;
   }
 
   .linksFooter li a {
@@ -845,6 +863,7 @@ height: 260px;
     column-count: 1;
     column-gap: 0px;
   }
+
 
 }
 
@@ -892,6 +911,10 @@ height: 260px;
     line-height: 59px;
   }
   .tituloBanner2 h1 {
+    font-size: 60px;
+    line-height: 59px;
+  }
+  .tituloBanner3 h1 {
     font-size: 60px;
     line-height: 59px;
   }
