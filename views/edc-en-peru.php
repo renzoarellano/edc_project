@@ -11,17 +11,17 @@
                 <div class="bottonQuienesSomos">
                     <ul class="links-nosotros">
                         <li>
-                            <a class=" <?= $sectionVision; ?>" href="nosotros.php?section=nuestra-vision-para-el-sur">
+                            <a class=" <?= $sectionVision; ?>" href="edc-en-peru.php?section=nuestra-vision-para-el-sur">
                                 NUESTRA VISIÓN PARA EL SUR
                             </a>
                         </li>
                         <li>
-                            <a class=" <?= $sectionGeotermia; ?>" href="que-es-la-geotermia">
+                            <a class=" <?= $sectionGeotermia; ?>" href="edc-en-peru.php?section=que-es-la-geotermia">
                                 QUÉ ES LA GEOTERMIA
                             </a>
                         </li>
                         <li>
-                            <a class=" <?= $sectionProyecto; ?>" href="nosotros.php?section=nuestros-proyectos">
+                            <a class=" <?= $sectionProyecto; ?>" href="edc-en-peru.php?section=nuestros-proyectos">
                                 NUESTROS PROYECTOS
                             </a>
                         </li>
@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row alignContent">
                 <div class="col-12 col-lg-6">
-                    <img class="imgResponsive" src="app/img/edc-en-peru/img1.jpg" alt="">
+                    <img class="imgResponsive" src="app/img/edc-en-peru/img1.jpeg" alt="">
                 </div>
                 <div class="col-12 col-lg-6">
                     <div class="col-12 np">
@@ -222,10 +222,10 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-12 col-md-8">
+                            <div class="ImageDepartamentSection col-12 col-md-8">
                                 <img class="imgResponsive" src="app/img/edc-en-peru/img6.jpg" alt="">
                             </div>
-                            <div class="col-12 col-md-4">
+                            <div class="ImageDepartamentSection col-12 col-md-4">
                                 <img class="imgResponsive" src="app/img/edc-en-peru/img7.jpg" alt="">
                             </div>
                             <div class="detalleImagen col-12">
@@ -271,10 +271,10 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-12 col-md-7">
+                            <div class="ImageDepartamentSection col-12 col-md-7">
                                 <img class="imgResponsive" src="app/img/edc-en-peru/img9.jpg" alt="">
                             </div>
-                            <div class="col-12 col-md-5">
+                            <div class="ImageDepartamentSection col-12 col-md-5">
                                 <img class="imgResponsive" src="app/img/edc-en-peru/img10.jpg" alt="">
                             </div>
                             <div class="detalleImagen col-12">

@@ -28,11 +28,12 @@ switch (basename($_SERVER['PHP_SELF'])) {
 ?>
 
 <header id="changeHeader" class="headerSpace">
+  <div class="container">
   <div class="row no-gutters">
-    <div class="logo col-5 col-md-3 col-lg-2 col-xl-3">
-      <img id="logoHeader" class="logo-responsive" src="app/img/logo.png" alt="Energy Logo">
+    <div class="logo col-5 col-md-3 col-lg-2 col-xl-2">
+      <img id="logoHeader" class="logo-responsive backgroundLogo" src="app/img/logo.png" alt="Energy Logo">
     </div>
-    <div id="linksHeaderChange" class="nav col-7 col-md-9 col-lg-10 col-xl-9">
+    <div id="linksHeaderChange" class="nav col-7 col-md-9 col-lg-10 col-xl-10">
       <div class=" d-none d-sm-none d-md-none d-lg-block col-lg-12 np">
         <ul class="links">
           <li>
@@ -84,6 +85,7 @@ switch (basename($_SERVER['PHP_SELF'])) {
         </button>
       </div>
     </div>
+  </div>
   </div>
   <div id="subheader" class="d-block d-sm-block d-md-block d-lg-none d-xl-none col-md-12">
     <ul class="subnav-mobile">

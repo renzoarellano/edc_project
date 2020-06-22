@@ -11,17 +11,17 @@
                 <div class="bottonQuienesSomos">
                     <ul class="links-nosotros">
                         <li>
-                            <a class=" <?= $sectionSostenibilidad; ?>" href="nosotros.php?section=sostenibilidad">
+                            <a class=" <?= $sectionSostenibilidad; ?>" href="responsabilidad-social.php?section=sostenibilidad">
                                 SOSTENIBILIDAD
                             </a>
                         </li>
                         <li>
-                            <a class=" <?= $sectionEnPeru; ?>" href="rsc-en-peru">
+                            <a class=" <?= $sectionEnPeru; ?>" href="responsabilidad-social.php?section=rsc-en-peru">
                                 RSC EN PERÚ
                             </a>
                         </li>
                         <li>
-                            <a class=" <?= $sectionEnElMundo; ?>" href="nosotros.php?section=rsc-en-el-mundo">
+                            <a class=" <?= $sectionEnElMundo; ?>" href="responsabilidad-social.php?section=rsc-en-el-mundo">
                                 RSC EN EL MUNDO
                             </a>
                         </li>

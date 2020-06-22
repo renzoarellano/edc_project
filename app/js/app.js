@@ -8,11 +8,9 @@ function myFunction() {
         //document.getElementById("LogoChange").className = "header-titlechange";
     } else {
         document.getElementById("changeHeader").className = "headerSpace";
-        if(document.body.clientWidth > 1024){
-            document.getElementById("linksHeaderChange").style.alignItems = "flex-start";
-        }else{
-            document.getElementById("linksHeaderChange").style.alignItems = "center";
-        }
+       
+        document.getElementById("linksHeaderChange").style.alignItems = "center";
+        
        
         document.getElementById("logoHeader").style.maxWidth = "200px";
         //document.getElementById("LogoChange").className = "header-title";
