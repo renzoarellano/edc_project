@@ -4,7 +4,7 @@
         <div class="">
             <div class="tituloBanner2 col-12 offset-md-1 col-md-4 offset-lg-1 col-lg-3 offset-xl-1 col-xl-3">
                 <h1>
-                    CONTACTO
+                    NOTICIAS
                 </h1>
             </div>
         </div>
