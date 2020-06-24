@@ -126,7 +126,7 @@
                     <div class="col-12 np">
                         <div class="col-12 textoSectionNosotros np">
                             <p class="introTextEDC">
-                                Cponoce en este didáctico esqueema cómo generamos electricidad con el calor al interior
+                                Conoce en este didáctico esquema cómo generamos electricidad con el calor al interior
                                 de la Tierra.
                             </p>
                         </div>

@@ -116,6 +116,7 @@ body {
 
 .linksFooter {
   margin: 0;
+  padding: 0;
   list-style: none;
   float: right;
 }
@@ -349,6 +350,9 @@ body {
 }
 
 /*Inicio*/
+.iconRedes{
+  width: 48px;
+}
 .bannerBack {
   width: 100%;
   min-height: 950px;
@@ -434,10 +438,11 @@ body {
 }
 
 .textNoticiaDestacada {
-  font-size: 16px;
+  font-size: 14px;
   font-family: 'poppins_regular';
-  color: black;
+  color: #333b55;
   line-height: 20px;
+  word-break: break-word;
 }
 
 .headNoticia {
@@ -487,7 +492,7 @@ body {
 }
 
 .paddingUltimaNoticia {
-  padding: 20px 20px 0px !important;
+  padding: 10px 20px 0px !important;
 }
 
 .ultimaNoticia {
@@ -496,7 +501,7 @@ body {
 
 .imgUltimaNoticia {
   width: 100%;
-  min-height: 307px;
+  margin: auto;
 }
 
 .tituloUltimaNoticia h1 {
@@ -509,14 +514,13 @@ body {
 .textoUltimaNotica p {
   color: #333b55;
   font-family: 'poppins_regular';
-  font-size: 16px;
+  font-size: 14px;
   line-height: 20px;
   margin-bottom: 5px;
-  height: 140px;
+  height: 120px;
   overflow: hidden;
-  word-break: break-all;
+  word-break: break-word;
   text-overflow: ellipsis;
-  word-wrap: break-word;
 }
 
 .comentariosUltimaNoticia {
@@ -641,6 +645,7 @@ body {
   font-size: 16px;
   font-family: 'poppins_medium';
   text-align: center;
+  width: 100%;
 }
 
 .submitSuscription {
@@ -663,6 +668,7 @@ background-color: rgba(255, 255, 255, 0.9);
 padding: 40px 30px;
 margin-top: 50px;
 height: 260px;
+width: 280px;
 }
 .links-nosotros{
   padding: 0;
@@ -711,8 +717,8 @@ height: 260px;
 }
 .textoSectionNosotros p{
   color: black;
-  font-family: 'poppins_medium';
-  font-size: 20px;
+  font-family: 'poppins_regular';
+  font-size: 16px;
   line-height: 25px;
   text-align: justify;
 }
@@ -722,8 +728,8 @@ height: 260px;
 }
 .textoSectionNosotros ul li{
   color: black;
-  font-family: 'poppins_medium';
-  font-size: 20px;
+  font-family: 'poppins_regular';
+  font-size: 16px;
   line-height: 25px;
   margin-bottom: 10px;
   text-align: justify;
@@ -764,13 +770,14 @@ height: 260px;
 }
 
 .detalleImagen{
-  margin-top: 15px;
+  margin-top: 10px;
 }
 .detalleImagen p{
   color: black;
   font-family: 'poppins_regular';
   font-size: 20px;
   font-style: italic;
+  margin: 0px;
 }
 .espacioImgConDescripcion{
   margin-bottom: 20px;
@@ -785,7 +792,7 @@ height: 260px;
   color: #333b55;
   margin-top: 15px;
   font-family: 'gotham_book';
-  font-size: 20px;
+  font-size: 19px;
   line-height: 25px;
 }
 .espacioMapa{
@@ -801,7 +808,7 @@ height: 260px;
   color: #333b55;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: flex-start;
   font-family: 'montserrat_semibold';
   font-size: 18px;
   margin: 15px 0px;
@@ -820,7 +827,7 @@ height: 260px;
 .textoNoticiaEDC p{
   color: black;
   font-family: 'poppins_regular';
-  font-size: 17px;
+  font-size: 14px;
   margin: 0;
   line-height: 20px;
   height: 140px;
@@ -875,10 +882,10 @@ height: 260px;
   }
 
   .linksFooter li a {
-    font-size: 12px;
+    font-size: 14px;
   }
   .linksFooter li a:hover, .linksFooter li a:focus{
-    font-size: 12px;
+    font-size: 14px;
   }
   
   
@@ -998,6 +1005,13 @@ height: 260px;
   .ImageDepartamentSection img{
     max-height: 250px;
   }
+
+  .linksFooter li a {
+    font-size: 15px;
+  }
+  .linksFooter li a:hover,.linksFooter li a:focus  {
+    font-size: 15px;
+  }
  
 }
 
@@ -1034,6 +1048,13 @@ height: 260px;
     max-height: 345px;
   }
 
+  .padRightEDC{
+    padding-right: 40px;
+  }
+  .padLeftEDC{
+    padding-left: 40px;
+  }
+
 }
 
 /*Fin 992*/
@@ -1053,14 +1074,14 @@ height: 260px;
   }
 
   .bannerBack {
-    min-height: 950px;
+    min-height: 750px;
   }
 
   .linksFooter li a {
-    font-size: 16px;
+    font-size: 18px;
   }
   .linksFooter li a:hover,.linksFooter li a:focus  {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .ImageDepartamentSection img{

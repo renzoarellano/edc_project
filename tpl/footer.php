@@ -5,7 +5,7 @@
         <img class="logo-responsive" src="app/img/logo-blanco.png" alt="">
       </div>
       <div class="col-12 col-md-12 col-lg-9 np linksCentradoFooter">
-        <div class="col-12 displayLinks">
+        <div class="col-12 displayLinks np">
           <ul class="linksFooter">
             <li>
               <a href="inicio.php">
@@ -51,7 +51,7 @@
         <div class="row no-gutters spaceDetails">
           <div class="col-12 col-md-7 col-lg-8 footerLeft">
             &copy; Copyright 2020 - Energy Development Corporation | Términos y Condiciones<br>
-            Av. Manuel Olguín 335 Of 1301, Surco. Lima - Perú | E-mail: informes@edc.pe
+            Av. Manuel Olguín 335 Of 1301, Surco. Lima - Perú | E-mail: contacto@edc.pe
           </div>
           <div class="col-12 col-md-5 col-lg-4 footerRight">
             <div class="numberFooter">

@@ -5,6 +5,7 @@ function myFunction() {
         document.getElementById("changeHeader").className = "headerSpaceC";
         document.getElementById("linksHeaderChange").style.alignItems = "center";
         document.getElementById("logoHeader").style.maxWidth = "120px";
+        document.getElementById("logoHeader").style.marginTop = "15px";
         //document.getElementById("LogoChange").className = "header-titlechange";
     } else {
         document.getElementById("changeHeader").className = "headerSpace";
@@ -13,6 +14,7 @@ function myFunction() {
         
        
         document.getElementById("logoHeader").style.maxWidth = "200px";
+        document.getElementById("logoHeader").style.marginTop = "0px";
         //document.getElementById("LogoChange").className = "header-title";
     }
 }
@@ -83,6 +85,11 @@ function cerrarNav(){
 /*Swiper Banner Home*/
 var swiper = new Swiper('.swiper-container-home', {
     loop: true,
+    effect:'fade',
+    autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+    },
     pagination: {
         el: '.swiper-pagination',
         clickable: true,

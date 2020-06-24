@@ -36,7 +36,7 @@
     <div class="somos-energy col-12 np">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-6 ">
+                <div class="col-12 col-lg-6 padRightEDC">
                     <div class="titleSectionNosotros col-12 np">
                         <h1>
                             SOMOS ENERGY<br>DEVELOPMENT CORPORATION EDC
@@ -72,7 +72,7 @@
 
                     </div>
                 </div>
-                <div class="col-12 col-lg-6">
+                <div class="col-12 col-lg-6 padLeftEDC">
                     <img class="positionImageNosotros" src="app/img/quienes-somos/img1.jpg" alt="Quienes somos">
                 </div>
             </div>
@@ -81,10 +81,10 @@
     <div class="colorSection col-12 np">
         <div class="container">
             <div class="row alignContent">
-                <div class="col-12 col-lg-6 npMobile">
+                <div class="col-12 col-lg-6 padRightEDC">
                     <img class="imgResponsive" src="app/img/quienes-somos/img2.jpg" alt="">
                 </div>
-                <div class="col-12 col-lg-6">
+                <div class="col-12 col-lg-6 padLeftEDC">
                     <div class="col-12 np">
                         <div class="titleSectionNosotros col-12 np">
                             <h1>
@@ -106,7 +106,7 @@
     <div class="container">
         <div class="paddingSection lineSection  col-12 np">
             <div class="row alignContent">
-                <div class="col-12 col-lg-6">
+                <div class="col-12 col-lg-6 padRightEDC">
                     <div class="col-12 np">
                         <div class="titleSectionNosotros col-12 np">
                             <h1>
@@ -123,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6">
+                <div class="col-12 col-lg-6 padLeftEDC">
                     <img class="imgResponsive" src="app/img/quienes-somos/img3.jpg" alt="">
                 </div>
             </div>
@@ -132,10 +132,10 @@
     <div class="spaceSection col-12 np">
         <div class="container">
             <div class="row alignContent">
-                <div class="col-12 col-lg-6">
+                <div class="col-12 col-lg-6 padRightEDC">
                     <img class="imgResponsive" src="app/img/quienes-somos/img4.jpg" alt="">
                 </div>
-                <div class="col-12 col-lg-6">
+                <div class="col-12 col-lg-6 padLeftEDC">
                     <div class="col-12 np">
                         <div class="titleSectionNosotros col-12 np">
                             <h1>

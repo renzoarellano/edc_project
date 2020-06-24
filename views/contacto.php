@@ -13,21 +13,24 @@
 
 <section class="spaceSection col-12 np">
 	<div class="container">
-		<div class="row">
-			<div class="cabeceraSection col-12 npMobile">
-				<div class="tituloSection">
-					<h1>
-						OFICINA EN LIMA
-					</h1>
-				</div>
-				<div class="col-12 lineCabecera">
+		
+			<div class="col-md-8 col-lg-6 col-xl-6 np">
+				<div class="cabeceraSection col-12 np">
+					<div class="tituloSection">
+						<h1>
+							OFICINA EN LIMA
+						</h1>
+					</div>
+					<div class="col-12 lineCabecera">
 
+					</div>
 				</div>
 			</div>
-			<div class="col-12 col-md-8 col-lg-6 col-xl-5 npMobile">
+			
+			<div class="col-12 col-md-8 col-lg-6 col-xl-7 np">
 				<div class="columSectionEDC estiloDatosContacto">
-					Av. Manuel Olguin 335 <br> Oficina 1301, Edificio Link Tower Santiago de Surco - Lima, Perú <br>
-					Telef. (051) 312-0111
+					Av. Manuel Olguín 335 <br> Oficina 1301, Edificio Link Tower Santiago de Surco - Lima, Perú <br>
+					Telef. (051) 312-0111 <br>
 					Correo electrónico:
 					contacto@edc.com.pe
 				</div>
@@ -38,6 +41,6 @@
 					frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 			</div>
-		</div>
+		
 	</div>
 </section>
