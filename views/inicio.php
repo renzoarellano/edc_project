@@ -193,6 +193,11 @@
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
                             <img class="imgUltimaNoticia" src="app/img/not4_edc.jpg" alt="">
+                            <div class="detalleNoticia col-12 np">
+                                <p>
+                                    Entrega de productos al Centro de Salud de Cabanaconde
+                                </p>
+                            </div>
                         </div>
                         <div class="col-12 col-md-7 col-lg-7 paddingUltimaNoticia">
                             <div class=" headUltimaNoticia">

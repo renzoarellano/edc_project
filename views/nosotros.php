@@ -115,7 +115,7 @@
                         </div>
                         <div class="col-12 textoSectionNosotros np">
                             <p>
-                                NUestra visión es ser <b>el líder mundial</b> energía geotérmica.<br>
+                                Nuestra visión es ser <b>el líder mundial</b> energía geotérmica.<br>
                                 Nuestra misión es proporcionar a las presentes y futuras generaciones una vida mejor,
                                 con
                                 energía limpia y renovable.

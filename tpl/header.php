@@ -95,19 +95,19 @@ switch (basename($_SERVER['PHP_SELF'])) {
         </a>
       </li>
       <li>
-        <a <?= $nosotros ?> href="#">Quiénes Somos</a>
+        <a <?= $nosotros ?> href="nosotros.php">Quiénes Somos</a>
       </li>
       <li>
-        <a <?= $edc ?> href="#">EDC en Perú</a>
+        <a <?= $edc ?> href="edc-en-peru.php">EDC en Perú</a>
       </li>
       <li>
-        <a <?= $responsabilidad ?> href="#">Responsabilidad Social</a>
+        <a <?= $responsabilidad ?> href="responsabilidad-social.php">Responsabilidad Social</a>
       </li>
       <li>
-        <a <?= $noticias ?> href="#">Noticias</a>
+        <a <?= $noticias ?> href="noticias.php">Noticias</a>
       </li>
       <li>
-        <a <?= $contacto ?> href="#">Contacto</a>
+        <a <?= $contacto ?> href="contacto.php">Contacto</a>
       </li>
     </ul>
   </div>

@@ -296,7 +296,7 @@ body {
 .subnav-mobile li a:focus {
   text-decoration: none;
   color: #e56302;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 
@@ -348,6 +348,13 @@ body {
 }
 
 /*Inicio*/
+.detalleNoticia p{
+  color: black;
+  font-family: 'poppins_regular';
+  font-size: 12px;
+  font-style: italic;
+  margin: 0px;
+}
 .iconRedes{
   width: 36px;
 }
@@ -972,8 +979,8 @@ width: 280px;
   }
 
   .tituloBanner h1 {
-    font-size: 50px;
-    line-height: 59px;
+    font-size: 45px;
+    line-height: 52px;
   }
   .tituloBanner2 h1 {
     font-size: 60px;
@@ -1111,7 +1118,7 @@ width: 280px;
   }
 
   .textBanner {
-    font-size: 24px;
+    font-size: 20px;
     max-width: inherit;
   }
 
