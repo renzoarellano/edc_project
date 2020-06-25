@@ -159,7 +159,7 @@
 
                     </div>
                 </div>
-                <a href="app/img/not3_edc_detail.jpg" class="ultimaNoticia col-lg-12 npMobile ">
+                <a href="app/img/not3_edc_detail.jpg" class="ultimaNoticia col-lg-12 npMobile " target="_blank">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
                             <img class="imgUltimaNoticia" src="app/img/not3_edc.jpg" alt="">

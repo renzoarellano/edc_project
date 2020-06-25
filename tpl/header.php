@@ -31,7 +31,9 @@ switch (basename($_SERVER['PHP_SELF'])) {
   <div class="container">
   <div class="row no-gutters">
     <div class="logo col-5 col-md-3 col-lg-2 col-xl-2">
+      <a href="inicio.php">
       <img id="logoHeader" class="logo-responsive" src="app/img/logo.png" alt="Energy Logo">
+      </a>
     </div>
     <div id="linksHeaderChange" class="nav col-7 col-md-9 col-lg-10 col-xl-10">
       <div class=" d-none d-sm-none d-md-none d-lg-block col-lg-12 np">

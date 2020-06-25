@@ -1,4 +1,4 @@
-<footer class="colorFooter col-12 np col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 offset-xl-1 col-xl-10 np">
+<footer class="colorFooter np">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-12 col-lg-3 displayLogoFooter">

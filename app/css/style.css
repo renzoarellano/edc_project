@@ -764,11 +764,7 @@ width: 280px;
 .introTextEDC{
   max-width: 320px;
 }
-.positionSection4EDC{
-  margin-top: -60px;
-  position: relative;
-  z-index: -2;
-}
+
 .titleSectionDepartamento h1{
   color: black;
   font-family: 'montserrat_bold';
@@ -1067,6 +1063,12 @@ width: 280px;
   }
   .padLeftEDC{
     padding-left: 40px;
+  }
+
+  .positionSection4EDC{
+    margin-top: -50px;
+    position: relative;
+    z-index: -2;
   }
 
 }
