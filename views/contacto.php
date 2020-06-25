@@ -1,8 +1,8 @@
 <section class="Banner col-12 np">
 
 	<div class="bannerBack" style="background-image: url('app/img/contacto/banner.jpg'); align-items: center;">
-		<div class="">
-			<div class="tituloBanner3 col-12 offset-md-1 col-md-4 offset-lg-1 col-lg-3 offset-xl-1 col-xl-3">
+		<div class="container">
+			<div class="tituloBanner3 col-12 col-md-4 col-lg-3  col-xl-3">
 				<h1>
 					CONTACTO
 				</h1>

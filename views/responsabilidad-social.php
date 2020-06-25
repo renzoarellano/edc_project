@@ -123,21 +123,19 @@
                     </p>
                     <ul>
                         <li>
-                            Implementación de 03 invernaderos grupales en Pinchollo, 04 viveros grupales en Cabanaconde
-                            y la instalación de 23 huertos familiares.
+                        Implementación de 03 invernaderos grupales en Pinchollo, 04 viveros grupales en Cabanaconde
+                        y la instalación de 23 huertos familiares.
+                        </li>
+                        <li> Firma de convenios interinstitucionales, destacándose el trabajo con La Microred de salud de
+                        Cabanaconde y Pinchollo para desarrollar acciones conjuntas sobre alimentación saludable.
+                        </li>
+                        <li>Implementación de la primera “Feria Saludable de Emprendedores de Cabanaconde”.
                         </li>
                         <li>
-                            Firma de convenios interinstitucionales, destacándose el trabajo con La Microred de salud de
-                            Cabanaconde y Pinchollo para desarrollar acciones conjuntas sobre alimentación saludable.
+                        Desarrollo de talleres de desarrollo personal, con énfasis en jóvenes escolares.
                         </li>
                         <li>
-                            Implementación de la primera “Feria Saludable de Emprendedores de Cabanaconde”.
-                        </li>
-                        <li>
-                            Desarrollo de talleres de desarrollo personal, con énfasis en jóvenes escolares.
-                        </li>
-                        <li>
-                            Organización de campañas de alimentación saludable y de ejercicio de derechos.
+                        Organización de campañas de alimentación saludable y de ejercicio de derechos.
                         </li>
                     </ul>
                 </div>

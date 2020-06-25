@@ -1,8 +1,8 @@
 <section class="Banner col-12  np">
 
     <div class="bannerBack" style="background-image: url('app/img/noticias/banner.jpg'); align-items: center;">
-        <div class="">
-            <div class="tituloBanner2 col-12 offset-md-1 col-md-4 offset-lg-1 col-lg-3 offset-xl-1 col-xl-3">
+        <div class="container np">
+            <div class="tituloBanner2 col-12  col-md-4  col-lg-3  col-xl-3">
                 <h1>
                     NOTICIAS
                 </h1>
@@ -32,7 +32,7 @@
                 <div class="fechaNoticiaEDC col-12 np">
                     <span class="iconCalendar">
                         <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                    </span> Junio 19, 2020
+                    </span> Febrero 13, 2020
                 </div>
                 <div class="tituloNoticiaEDC col-12 np">
                     <h1>
@@ -58,7 +58,7 @@
                 <div class="fechaNoticiaEDC col-12 np">
                     <span class="iconCalendar">
                         <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                    </span> Junio 19, 2020
+                    </span> Marzo 5, 2020
                 </div>
                 <div class="tituloNoticiaEDC col-12 np">
                     <h1>
@@ -80,7 +80,7 @@
                 <div class="fechaNoticiaEDC col-12 np">
                     <span class="iconCalendar">
                         <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                    </span> Junio 19, 2020
+                    </span> Marzo 2, 2020
                 </div>
                 <div class="tituloNoticiaEDC col-12 np">
                     <h1>
@@ -102,7 +102,7 @@
                 <div class="fechaNoticiaEDC col-12 np">
                     <span class="iconCalendar">
                         <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                    </span> Junio 19, 2020
+                    </span> Febrero 2, 2020
                 </div>
                 <div class="tituloNoticiaEDC col-12 np">
                     <h1>
@@ -117,7 +117,7 @@
                 </div>
             </a>
 
-            <a href="#" class="noticiaEDC col-12 col-md-6 col-lg-4" target="_blank">
+            <a href="app/pdfs/noticia5_details.pdf" class="noticiaEDC col-12 col-md-6 col-lg-4" target="_blank">
                 <div class="imagenNoticiaEDC col-12 np">
                     <img src="app/img/noticias/n5.jpg" alt="">
                 </div>
@@ -146,7 +146,7 @@
                 <div class="fechaNoticiaEDC col-12 np">
                     <span class="iconCalendar">
                         <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                    </span> Junio 19, 2020
+                    </span> Octubre 4, 2019
                 </div>
                 <div class="tituloNoticiaEDC col-12 np">
                     <h1>
