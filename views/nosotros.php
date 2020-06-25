@@ -1,13 +1,13 @@
-<section class="Banner col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 np">
+<section class="Banner col-12  np">
 
     <div class="bannerBack" style="background-image: url('app/img/quienes-somos/bqs.jpg');">
-        <div class="">
-            <div class="tituloBanner2 col-12 offset-md-1 col-md-4 offset-lg-1 col-lg-3 offset-xl-1 col-xl-3">
+        <div class="container np">
+            <div class="tituloBanner2 col-12 col-md-4  col-lg-3  col-xl-3">
                 <h1>
                     <?= $sectionTitle; ?>
                 </h1>
             </div>
-            <div class="col-12 offset-md-1 col-md-5 offset-lg-1 col-lg-3 offset-xl-1 col-xl-2">
+            <div class="col-12  col-md-5 col-lg-3  col-xl-2">
                 <div class="bottonQuienesSomos">
                     <ul class="links-nosotros">
                         <li>
@@ -32,14 +32,14 @@
     </div>
 </section>
 
-<section class="quienes-somos col-12 np">
+<section class="quienes-somos  col-12  np">
     <div class="somos-energy col-12 np">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-6 padRightEDC">
                     <div class="titleSectionNosotros col-12 np">
                         <h1>
-                            SOMOS ENERGY<br>DEVELOPMENT CORPORATION EDC
+                            SOMOS ENERGY<br>DEVELOPMENT CORPORATION (EDC)
                         </h1>
                     </div>
                     <div class="col-12 textoSectionNosotros np">

@@ -1,4 +1,4 @@
-<section class="Banner col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 np">
+<section class="Banner col-12 np">
     <div class="swiper-container-home">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -159,7 +159,7 @@
 
                     </div>
                 </div>
-                <a href="#" class="ultimaNoticia col-lg-12 npMobile ">
+                <a href="app/img/not3_edc_detail.jpg" class="ultimaNoticia col-lg-12 npMobile ">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
                             <img class="imgUltimaNoticia" src="app/img/not3_edc.jpg" alt="">
@@ -223,45 +223,46 @@
         </div>
         <div class="col-12 col-md-12 offset-lg-1 col-lg-3 espaciadoRedes">
             <div class="row no-gutters">
-                <div class="cabeceraSection col-12 np">
-                    <div class="tituloSection">
-                        <h1>
-                            SÍGUENOS
-                        </h1>
-                    </div>
-                    <div class="col-12 lineCabecera">
+                <div class="col-12 col-md-6 col-lg-12 np">
+                    <div class="cabeceraSection col-12 np">
+                        <div class="tituloSection">
+                            <h1>
+                                SÍGUENOS
+                            </h1>
+                        </div>
+                        <div class="col-12 lineCabecera">
 
+                        </div>
                     </div>
-                </div>
-                <div class="col-12">
-                    <ul class="redesHome">
-                        <li>
-                            <a href="https://instagram.com/edc_peru" target="_blank">
-                                <img class="iconRedes" src="app/img/instagram.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/EDCPeru" target="_blank">
-                                <img class="iconRedes" src="app/img/facebook.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.youtube.com/channel/UCw9VVaZpUUy3wGFTdBx6vgQ" target="_blank">
-                                <img class="iconRedes" src="app/img/youtube.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" target="_blank">
-                                <img class="iconRedes" src="app/img/twitter.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.linkedin.com/in/edc-perú-8661a41a6" target="_blank">
-                                <img class="iconRedes" src="app/img/linkedin.png" alt="">
-                            </a>
-                        </li>
-                    </ul>
-                    <!--div class="youtube col-12 np">
+                    <div class="col-12">
+                        <ul class="redesHome">
+                            <li>
+                                <a href="https://instagram.com/edc_peru" target="_blank">
+                                    <img class="iconRedes" src="app/img/instagram.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/EDCPeru" target="_blank">
+                                    <img class="iconRedes" src="app/img/facebook.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCw9VVaZpUUy3wGFTdBx6vgQ" target="_blank">
+                                    <img class="iconRedes" src="app/img/youtube.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">
+                                    <img class="iconRedes" src="app/img/twitter.png" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/in/edc-perú-8661a41a6" target="_blank">
+                                    <img class="iconRedes" src="app/img/linkedin.png" alt="">
+                                </a>
+                            </li>
+                        </ul>
+                        <!--div class="youtube col-12 np">
                         <div class="logoRedSocial">
                             <img src="app/img/youtube.png" alt="Facebook Logo EDC">
                         </div>
@@ -270,32 +271,35 @@
                         </div>
                     </div-->
 
-                </div>
-                <div class="cabeceraSection col-12 np">
-                    <div class="tituloSection">
-                        <h1>
-                            SUSCRÍBETE
-                        </h1>
-                    </div>
-                    <div class="col-12 lineCabecera">
-
                     </div>
                 </div>
-                <div class="suscripcionHome col-12 np">
-                    <div class="tituloSuscripcion">
-                        Recibe<br>el boletín<br>mensual
-                    </div>
+                <div class="col-12 col-md-6 np col-lg-12">
+                    <div class="cabeceraSection col-12 np">
+                        <div class="tituloSection">
+                            <h1>
+                                SUSCRÍBETE
+                            </h1>
+                        </div>
+                        <div class="col-12 lineCabecera">
 
-                    <div class="formSuscripcion">
-                        <input class="inpuSuscripcion" type="text" name="email-suscripcion" type="email" require="true"
-                            placeholder="Ingrese su email">
+                        </div>
                     </div>
-                    <div class="submitSuscription">
-                        <button class="suscripcionBtn">
-                            Suscribrirse
-                        </button>
-                    </div>
+                    <div class="suscripcionHome col-12 np">
+                        <div class="tituloSuscripcion">
+                            Recibe<br>el boletín<br>mensual
+                        </div>
 
+                        <div class="formSuscripcion">
+                            <input class="inpuSuscripcion" type="text" name="email-suscripcion" type="email"
+                                require="true" placeholder="Ingrese su email">
+                        </div>
+                        <div class="submitSuscription">
+                            <button class="suscripcionBtn">
+                                Suscribrirse
+                            </button>
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </div>

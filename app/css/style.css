@@ -42,7 +42,6 @@ body {
 /*Header*/
 .headerSpace {
   width: 100%;
-  margin: auto;
   position: fixed;
   z-index: 99;
   background-color: transparent;
@@ -57,7 +56,6 @@ body {
 
 .headerSpaceC {
   width: 100%;
-  margin: auto;
   position: fixed;
   z-index: 99;
   background-color: rgba(255, 255, 255, 0.9);
@@ -351,7 +349,7 @@ body {
 
 /*Inicio*/
 .iconRedes{
-  width: 48px;
+  width: 36px;
 }
 .bannerBack {
   width: 100%;
@@ -629,8 +627,8 @@ body {
 .tituloSuscripcion {
   text-align: center;
   color: #333b55;
-  font-size: 30px;
-  line-height: 35px;
+  font-size: 24px;
+  line-height: 25px;
   font-family: 'montserrat_semibold';
 }
 
@@ -1026,11 +1024,11 @@ width: 280px;
   }
 
   .links li a {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .links li a:hover,.links li a:focus  {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   #linksHeaderChange {
@@ -1068,11 +1066,11 @@ width: 280px;
   }
 
   .links li a {
-    font-size: 19px;
+    font-size: 16px;
   }
 
   .links li a:hover,.links li a:focus  {
-    font-size: 19px;
+    font-size: 16px;
   }
 
   .bannerBack {
@@ -1080,10 +1078,10 @@ width: 280px;
   }
 
   .linksFooter li a {
-    font-size: 18px;
+    font-size: 17px;
   }
   .linksFooter li a:hover,.linksFooter li a:focus  {
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .ImageDepartamentSection img{

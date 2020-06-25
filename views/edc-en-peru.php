@@ -1,13 +1,13 @@
-<section class="Banner col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 np">
+<section class="Banner col-12 np">
 
     <div class="bannerBack" style="background-image: url('app/img/edc-en-peru/banner.jpg');">
-        <div class="">
-            <div class="tituloBanner2 col-12 offset-md-1 col-md-4 offset-lg-1 col-lg-3 offset-xl-1 col-xl-3">
+        <div class="container np">
+            <div class="tituloBanner2 col-12 col-md-4  col-lg-3  col-xl-3">
                 <h1>
                     <?= $sectionTitle; ?>
                 </h1>
             </div>
-            <div class="col-12 offset-md-1 col-md-5 offset-lg-1 col-lg-3 offset-xl-1 col-xl-2">
+            <div class="col-12 col-md-5 col-lg-3  col-xl-2">
                 <div class="bottonQuienesSomos">
                     <ul class="links-nosotros">
                         <li>

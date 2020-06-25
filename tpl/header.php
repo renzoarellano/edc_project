@@ -27,7 +27,7 @@ switch (basename($_SERVER['PHP_SELF'])) {
 }
 ?>
 
-<header id="changeHeader" class="headerSpace">
+<header id="changeHeader" class="headerSpace col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 np">
   <div class="container">
   <div class="row no-gutters">
     <div class="logo col-5 col-md-3 col-lg-2 col-xl-2">

@@ -2,14 +2,14 @@ window.onscroll = function () { myFunction() };
 
 function myFunction() {
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("changeHeader").className = "headerSpaceC";
+        document.getElementById("changeHeader").style.backgroundColor = "rgba(255, 255, 255, 0.9)";
         document.getElementById("linksHeaderChange").style.alignItems = "center";
         document.getElementById("logoHeader").style.maxWidth = "120px";
         document.getElementById("logoHeader").style.marginTop = "15px";
         //document.getElementById("LogoChange").className = "header-titlechange";
     } else {
-        document.getElementById("changeHeader").className = "headerSpace";
-       
+        document.getElementById("changeHeader").style.backgroundColor = "transparent";
+        
         document.getElementById("linksHeaderChange").style.alignItems = "center";
         
        
