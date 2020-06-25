@@ -1,18 +1,21 @@
-<section class="Banner col-12 np">
+<section class="Banner col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 np">
     <div class="swiper-container-home">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="bannerBack" style="background-image: url('app/img/Carrusel01.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                        <div
+                            class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
                                 GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
                         <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <div class="textBanner col-12 col-md-10 col-lg-8">
-                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
-                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en
+                                generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías
+                                renovables en Filipinas.
                             </div>
                         </div>
                     </div>
@@ -21,15 +24,18 @@
             <div class="swiper-slide">
                 <div class="bannerBack" style="background-image: url('app/img/Carrusel02.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                        <div
+                            class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
                                 GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
                         <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <div class="textBanner col-12 col-md-10 col-lg-8">
-                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
-                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en
+                                generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías
+                                renovables en Filipinas.
                             </div>
                         </div>
                     </div>
@@ -38,15 +44,18 @@
             <div class="swiper-slide">
                 <div class="bannerBack" style="background-image: url('app/img/Carrusel03.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                        <div
+                            class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
                                 GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
                         <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <div class="textBanner col-12 col-md-10 col-lg-8">
-                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
-                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en
+                                generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías
+                                renovables en Filipinas.
                             </div>
                         </div>
                     </div>
@@ -55,15 +64,18 @@
             <div class="swiper-slide">
                 <div class="bannerBack" style="background-image: url('app/img/Carrusel04.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                        <div
+                            class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
                                 GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
                         <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <div class="textBanner col-12 col-md-10 col-lg-8">
-                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
-                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en
+                                generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías
+                                renovables en Filipinas.
                             </div>
                         </div>
                     </div>
@@ -72,15 +84,18 @@
             <div class="swiper-slide">
                 <div class="bannerBack" style="background-image: url('app/img/Carrusel05.jpg');">
                     <div class="positionText">
-                        <div class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
+                        <div
+                            class="tituloBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <h1>
                                 GENERANDO<br>POSIBILIDADES INFINITAS
                             </h1>
                         </div>
                         <div class="botonBanner col-12 offset-md-1 col-md-10 offset-lg-4 col-lg-8 offset-xl-5 col-xl-7">
                             <div class="textBanner col-12 col-md-10 col-lg-8">
-                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en generación eléctrica
-                                con recursos geotérmicos y el más grande productor de electricidad con energías renovables en Filipinas.
+                                Somos EDC Perú, subsidaria de Enery Development Corporation (EDC), lider mundial en
+                                generación eléctrica
+                                con recursos geotérmicos y el más grande productor de electricidad con energías
+                                renovables en Filipinas.
                             </div>
                         </div>
                     </div>
@@ -108,15 +123,16 @@
 
                     </div>
                 </div>
-                <div class="noticiaPrincipalContainer col-12 npMobile">
+                <a href="https://zoom.us/webinar/register/WN_gjizjWI4Q2GOOXWJ0RRtKA"
+                    class="noticiaPrincipalContainer col-12 npMobile" target="_blank">
                     <div class="noticiaPrincipal col-12" style="background-image: url('app/img/Not_destacada.jpg');">
                         <div class="contenidoNoticiaPrincipal">
                             <div class=" headNoticia">
-                                
+
                                 <div class="fechaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/calendar.png" alt="Calendar Noticia EDC">
-                                </span>  Junio 17, 2020
+                                    <span class="iconCalendar">
+                                        <img width="24px" src="app/img/calendar.png" alt="Calendar Noticia EDC">
+                                    </span> Junio 17, 2020
                                 </div>
                             </div>
                             <div class="tituloNoticia">
@@ -128,10 +144,11 @@
                     </div>
                     <div class="textNoticiaDestacada col-12 np">
                         Los invitamos al Webinar "GEOTERMIA, reactivación económica y seguridad energética" que organiza
-                        la Sociedad Peruana de Energías Renovables, Participará nuestro gerente general, Franklin Acevedo.
-                        Inscríbase <a href="https://zoom.us/webinar/register/WN_gjizjWI4Q2GOOXWJ0RRtKA">https://zoom.us/webinar/register/WN_gjizjWI4Q2GOOXWJ0RRtKA</a> ¡Los esperamos!
+                        la Sociedad Peruana de Energías Renovables, Participará nuestro gerente general, Franklin
+                        Acevedo.
+                        Inscríbase https://zoom.us/webinar/register/WN_gjizjWI4Q2GOOXWJ0RRtKA ¡Los esperamos!
                     </div>
-                </div>
+                </a>
                 <div class="cabeceraSection col-12 npMobile">
                     <div class="tituloSection">
                         <h1>
@@ -142,18 +159,18 @@
 
                     </div>
                 </div>
-                <div class="ultimaNoticia col-lg-12 npMobile ">
+                <a href="#" class="ultimaNoticia col-lg-12 npMobile ">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
                             <img class="imgUltimaNoticia" src="app/img/not3_edc.jpg" alt="">
                         </div>
                         <div class="col-12 col-md-7 col-lg-7 paddingUltimaNoticia">
                             <div class=" headUltimaNoticia">
-                         
+
                                 <div class="fechaUltimaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                                </span>  Junio 17, 2020
+                                    <span class="iconCalendar">
+                                        <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
+                                    </span> Junio 17, 2020
                                 </div>
                             </div>
                             <div class="tituloUltimaNoticia">
@@ -163,24 +180,27 @@
                             </div>
                             <div class="textoUltimaNotica">
                                 <p>
-                                En una columna de opinión publicada en el diario Gestión, nuestro gerente general Franklin Acevedo, comenta cómo la generación de electricidad con geotermia puede contribuir a generar una mejor calidad de vida para los peruanos, después del Covid-19.
+                                    En una columna de opinión publicada en el diario Gestión, nuestro gerente general
+                                    Franklin Acevedo, comenta cómo la generación de electricidad con geotermia puede
+                                    contribuir a generar una mejor calidad de vida para los peruanos, después del
+                                    Covid-19.
                                 </p>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="ultimaNoticia col-lg-12 npMobile ">
+                </a>
+                <a href="#" class="ultimaNoticia col-lg-12 npMobile ">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-5 col-lg-5 np">
                             <img class="imgUltimaNoticia" src="app/img/not4_edc.jpg" alt="">
                         </div>
                         <div class="col-12 col-md-7 col-lg-7 paddingUltimaNoticia">
                             <div class=" headUltimaNoticia">
-                               
+
                                 <div class="fechaUltimaNoticia">
-                                <span class="iconCalendar">
-                                    <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
-                                </span>  Junio 17, 2020
+                                    <span class="iconCalendar">
+                                        <img width="24px" src="app/img/calendar-blue.png" alt="Calendar Noticia EDC">
+                                    </span> Junio 17, 2020
                                 </div>
                             </div>
                             <div class="tituloUltimaNoticia">
@@ -190,12 +210,15 @@
                             </div>
                             <div class="textoUltimaNotica">
                                 <p>
-                                Frente a la actual pandemia que enfrenta nuestro país, EDC decide promover conductas saludables para la prevención del COVID 19 comenzando por la zona de Cabanaconde en Arequipa, donde se logró entregar productos sanitarios para la población, a la municipalidad local y centro de salud.
+                                    Frente a la actual pandemia que enfrenta nuestro país, EDC decide promover conductas
+                                    saludables para la prevención del COVID 19 comenzando por la zona de Cabanaconde en
+                                    Arequipa, donde se logró entregar productos sanitarios para la población, a la
+                                    municipalidad local y centro de salud.
                                 </p>
                             </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
         <div class="col-12 col-md-12 offset-lg-1 col-lg-3 espaciadoRedes">
@@ -236,7 +259,7 @@
                             <a href="https://www.linkedin.com/in/edc-perú-8661a41a6" target="_blank">
                                 <img class="iconRedes" src="app/img/linkedin.png" alt="">
                             </a>
-                        </li>    
+                        </li>
                     </ul>
                     <!--div class="youtube col-12 np">
                         <div class="logoRedSocial">
@@ -264,14 +287,15 @@
                     </div>
 
                     <div class="formSuscripcion">
-                        <input class="inpuSuscripcion" type="text" name="email-suscripcion" type="email" require="true" placeholder="Ingrese su email">
+                        <input class="inpuSuscripcion" type="text" name="email-suscripcion" type="email" require="true"
+                            placeholder="Ingrese su email">
                     </div>
                     <div class="submitSuscription">
                         <button class="suscripcionBtn">
                             Suscribrirse
                         </button>
                     </div>
-                    
+
                 </div>
             </div>
         </div>

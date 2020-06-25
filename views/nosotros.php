@@ -1,4 +1,4 @@
-<section class="Banner col-12 np">
+<section class="Banner col-12 offset-md-0 col-md-12 offset-lg-1 col-lg-10 np">
 
     <div class="bannerBack" style="background-image: url('app/img/quienes-somos/bqs.jpg');">
         <div class="">

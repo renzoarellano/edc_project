@@ -421,6 +421,7 @@ body {
 
 .noticiaPrincipalContainer {
   margin-bottom: 25px;
+  text-decoration: none;
 }
 
 .noticiaPrincipal {
@@ -497,6 +498,7 @@ body {
 
 .ultimaNoticia {
   margin-bottom: 25px;
+  text-decoration: none;
 }
 
 .imgUltimaNoticia {
